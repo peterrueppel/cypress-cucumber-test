@@ -12,5 +12,8 @@
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^15.1.2",
     "cypress": "^12.4.1"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
   }
 }
