@@ -2,3 +2,4 @@
 /.idea/
 /output/
 **/*.mp4
+/binary/cucumber-json-formatter
