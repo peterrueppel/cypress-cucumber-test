@@ -13,4 +13,10 @@ General useful Links about Cypress / Cucumber / Xray integration:
 3. https://www.npmjs.com/package/@badeball/cypress-cucumber-preprocessor
 4. https://github.com/badeball/cypress-cucumber-preprocessor/blob/master/examples/webpack-ts/cypress.config.ts
 
+To execute the primitive test do:
+1. `npm install`
+2. download cucumber-json-formatter (see above)
+3. `npm test`
+4. see files in `./output` folder
 
+Next step: try to import `./output/cucumber-report.json` in Jira / Xray!
